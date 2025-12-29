@@ -1,12 +1,22 @@
-# Hi 👋, I'm Shelly 
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+
+#👋, I'm Shelly 
 
 ### A passionate full stack developer
 
 - 🔭 I'm currently working on **a MERN stack project**
 
-- 🌱 I'm currently learning **SQL and Kernel Debugging **
-
-- 👯 I'm looking to collaborate on **open source projects**
+- 🌱 I'm currently learning SQL and Kernel Debugging 
 
 - 📫 How to reach me **shelly.normatov@gmail.com**
 
