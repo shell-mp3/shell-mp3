@@ -2,10 +2,6 @@
 
 ### A passionate full stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shell-mp3&label=Profile views&color=0e75b6&style=flat" alt="shell-mp3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shell-mp3" alt="shell-mp3" /></a> </p>
-
 - 🔭 I'm currently working on **a MERN stack project**
 
 - 🌱 I'm currently learning **SQL and Kernel Debugging **
